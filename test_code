@@ -1,5 +1,9 @@
 blablabla
 if (blablabla > blablablabla) {
-  print (blablabla is more than blablablabla)
+  if (bla is contains 4 bla) {
+     print (blablabla is more than blablablabla)
+   } else {
+     print (bla is nothing...)
+   }
   }
 }
